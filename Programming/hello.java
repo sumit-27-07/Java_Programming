@@ -1,4 +1,4 @@
-package hit;
+//package hit;
 
 public class hello {
 

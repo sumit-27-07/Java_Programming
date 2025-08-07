@@ -1,4 +1,4 @@
-package hit;
+//package hit;
 abstract class car{
 	car(){
 		System.out.println("Car Details:");
